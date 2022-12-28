@@ -24,7 +24,7 @@ public class Edge {
 //		File Dest = new File("C://mypictures/image1.png");
 //		FileUtils.copyFile(SrcFile, Dest);
 		
-// screen shot for many websites>::
+// screen shot for many websites  with new names>::
 		Date currentDate = new Date();
 		String actualDate = currentDate.toString().replace(":", "-");
 		TakesScreenshot src = ((TakesScreenshot)driver);
